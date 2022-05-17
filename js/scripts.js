@@ -43,7 +43,7 @@ $(document).ready(function () {
     autoplay: true,
     speed: 700,
     autoplaySpeed: 2000,
-    //adaptiveHeight: true
+    adaptiveHeight: true
   });
 });
 
